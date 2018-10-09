@@ -60,3 +60,5 @@ bash wagerr_update.sh
 ```
 ***
 
+# Donations
+$WGR: WagerrLiVo87tYRpLmwV3QJvB2sY58hS5f
