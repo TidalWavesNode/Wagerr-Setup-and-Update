@@ -56,7 +56,7 @@ systemctl is-enabled Wagerr #To check whetether Wagerr service is enabled on boo
 The first line (rm wagerr_update.sh) is not required the very first time you update the node and will return an error if you run it.  This is fine, continue with the update script.
 ```
 rm wagerr_update.sh*
-wget -q https://raw.githubusercontent.com/cryptosharks131/Wagerr/master/wagerr_update.sh
+wget -q https://raw.githubusercontent.com/TidalWavesNode/Wagerr-Setup-and-Update/master/wagerr_update.sh
 bash wagerr_update.sh
 ```
 ***
