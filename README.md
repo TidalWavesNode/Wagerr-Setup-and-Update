@@ -1,6 +1,6 @@
 # Wagerr
-Shell script to install a [Wagerr Masternode](https://wagerr.com/) on a Linux server running Ubuntu 16.04.  
-This will require a VPS running Ubuntu 16.04 and installs **Wagerr Core 2.0.1**.
+Shell script to install a [Wagerr Masternode](https://wagerr.com/) on a Linux server running Ubuntu 16.04 and above.  
+This will require a VPS running Ubuntu 16.04 or higher and installs **Wagerr Core 2.0.1**.
 ***
 
 ## Installation:
