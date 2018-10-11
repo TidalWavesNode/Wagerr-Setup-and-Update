@@ -100,6 +100,7 @@ function important_information() {
 ##### Main #####
 clear
 
+
 checks
 prepare_system
 update_node
