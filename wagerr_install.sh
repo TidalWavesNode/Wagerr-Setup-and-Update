@@ -172,7 +172,7 @@ function compile_error() {
     exit 1
   fi
 }
-
+function checks() {
   if [[ $EUID -ne 0 ]]; then
      echo -e "${RED}$0 must be run as root.${NC}"
      exit 1
